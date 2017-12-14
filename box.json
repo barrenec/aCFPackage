@@ -1,6 +1,8 @@
 {
 	"name":"aCFPackage",
 	"version":"0.0.2",
-	"location":"https://github.com/barrenec/aCFPackage/archive/v0.0.2.zip",
+	"location":"https://github.com/barrenec/aCFPackage/archive/master.zip",
+	"type":"Demos",
 	"slug":"aCFPackage"
 }
+
